@@ -1,5 +1,5 @@
 # ACL explorer #
-[vid](https://youtu.be/WuBZu8KeMFw)
+[Link to video](https://youtu.be/WuBZu8KeMFw)  
 
 This application is intended for the visual exploration and discovery of research publications that have been presented at the ACL (Annual Meeting of the Association for Computational Linguistics).
 
