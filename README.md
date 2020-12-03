@@ -22,7 +22,7 @@ You can refine your query based on the publication year, paper content, field of
 
 I am Kostas and I work at the intersection of knowledge discovery, data engineering and scientometrics. I am a Mozilla Open Science Fellow and a Principal Data Science Researcher at Nesta. I am currently working on [Orion](https://www.orion-search.org/), an open-source knowledge discovery and research measurement tool.
 
-If you have any questions or would like to learn more about it, you can find me on [twitter](https://twitter.com/kstathou) or send me an email at kostas@mozillafoundation.org
+If you have any questions or would like to learn more about it, you can find me on [twitter](https://twitter.com/kstathou).
 
 ## Appendix: Data & methods ##
 
