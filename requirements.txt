@@ -1,6 +1,6 @@
 streamlit==0.62.0
 altair==4.1.0
-transformers==2.8.0
+transformers==4.30.0
 torch==1.4.0
 numpy==1.18.2
 faiss-cpu==1.6.1
